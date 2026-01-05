@@ -8,6 +8,12 @@ Original framework concept and implementation by
 **Jatin Sharma (Test Automation Academy)**  
 Email: jatin@testautomationacademy.in
 
+## Tech Stack
+- Java
+- Selenium WebDriver
+- TestNG
+- Maven
+
 ## Installation
 ```bash
-mvn install
+mvn clean install
